@@ -10,5 +10,5 @@ You can navigate to view my portfolio About Me, Work I've done, Resume, and Cont
 # Screenshot
 ![Screenshot-Maria-Ramirez-Portfolio](https://user-images.githubusercontent.com/110949754/192357914-6868bd36-84ce-4852-8887-e63ed1f2c47f.PNG)
 
-# Link to a deplyed application
+# Link to a deployed application
 https://mar-ramg.github.io/Maria-Ramirez-Portfolio/ 
